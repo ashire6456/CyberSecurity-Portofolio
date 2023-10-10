@@ -12,3 +12,6 @@ There are multiple Linux distributions that security analysts should be familiar
 --Navigate Linux File system.
 1. pwd : The pwd command prints the working directory to the screen.
 2. ls : The ls command displays the names of the files and directories in the current working directory.
+3. CD : change directory.
+4. cat : read file
+5. 
