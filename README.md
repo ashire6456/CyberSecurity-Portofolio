@@ -5,4 +5,5 @@ In this section we will explain Introduction of linux, architecture and common l
 Understanding the Linux architecture is important for a security analyst. When you understand how a system is organized, it makes it easier to understand how it functions.A request to complete a task starts with the user and then flows through applications, the shell, the Filesystem Hierarchy Standard, the kernel, and the hardware.
 
 #### Linux Distributions
-There are multiple Linux distributions that security analysts should be familiar with. In this reading, you’ll learn about additional Linux distributions.
+There are multiple Linux distributions that security analysts should be familiar with. some of common distiributions for security analysts.
+1.KALI LINUX ™, Ubuntu, Parrot, Red Hat, and CentOS
