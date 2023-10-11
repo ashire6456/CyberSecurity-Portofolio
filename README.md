@@ -7,6 +7,7 @@ Understanding the Linux architecture is important for a security analyst. When y
 #### Linux Distributions
 There are multiple Linux distributions that security analysts should be familiar with. some of common distiributions for security analysts.
 1.KALI LINUX ™, Ubuntu, Parrot, Red Hat, and CentOS
+![](https://github.com/ashire6456/CyberSecurity-Portofolio/blob/main/images/1.png)
 
 #### Linux commands for security analyst
 --Navigate Linux File system.
