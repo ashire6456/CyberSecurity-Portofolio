@@ -6,7 +6,7 @@ The following code demonstrates how I used Linux commands to determine the exist
 
 
  Screenshot of the command line with the command for this task and its output 
-![alt text](image.jpg)
+![alt text](https://github.com/ashire6456/CyberSecurity-Portofolio/blob/main/images/1.png)
 
 
 
