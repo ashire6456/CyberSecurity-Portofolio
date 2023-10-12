@@ -1,4 +1,13 @@
-#### ﻿Incident report analysis
+Incident report analysis
+Introduction 
+1. #### Incident.
+  One of our client that works a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses. 
+The organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.
+
+2. #### CyberSecurity team findings.
+  The cybersecurity team then investigated the security event. They found that a malicious actor had sent a flood of ICMP pings into the company’s network through an unconfigured firewall. This vulnerability allowed the malicious attacker to overwhelm the company’s network through a distributed denial of service (DDoS) attack. 
+
+3. #### Solution
 Summary
 	The company experienced a security event when all network services suddenly stopped responding. The cybersecurity team found the disruption was caused by a distributed denial of services (DDoS) attack through a flood of incoming ICMP packets. The team responded by blocking the attack and stopping all non-critical network services, so that critical network services could be restored.
 	Identify
