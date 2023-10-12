@@ -1,4 +1,4 @@
-﻿Incident report analysis
+#### ﻿Incident report analysis
 Summary
 	The company experienced a security event when all network services suddenly stopped responding. The cybersecurity team found the disruption was caused by a distributed denial of services (DDoS) attack through a flood of incoming ICMP packets. The team responded by blocking the attack and stopping all non-critical network services, so that critical network services could be restored.
 	Identify
