@@ -17,7 +17,7 @@
 - Granting user and group read permission to archived project_x.txt.
 - Giving full access researcher2 user over the draft directory and its content.
 
-- | Syntax      | Description | Test Text     |
+| Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
