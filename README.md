@@ -13,8 +13,8 @@
 
 ## [Project 2: Managing File permission using Linux: Project Overview](https://github.com/ashire6456/CyberSecurity-Portofolio/blob/main/File%20permissions%20in%20Linux.txt)
 Project description
-The research team at my organization needs to update the file permissions for certain files and directories within the projects directory. The permissions do not currently reflect the level of authorization that should be given. Checking and updating these permissions will help keep their system secure. To complete this task, I performed the following tasks:
-Check file and directory details
+The research team at my organization needs to update the file permissions for certain files and directories within the projects directory. The permissions do not currently reflect the level of authorization that should be given. Checking and updating these permissions will help keep their system secure. 
+click project link for more details.
 - How to determine the existing permissions set for a specific directory in the file system.
 - Denying write permission to all three levels user, group and other.
 - Granting user and group read permission to archived project_x.txt.
