@@ -1,6 +1,8 @@
 # Abdifatah Mohamed Portofolio
 ## [Project 1: NIST Cybersecurity Framework to respond to a security incident: Project Overview](https://github.com/ashire6456/CyberSecurity-Portofolio/blob/main/Incident%20report%20analysis%20.txt)
 
+One of our client that works a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses. 
+The organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.
   To address this security event, the network security team implemented: 
 
 - A new firewall rule to limit the rate of incoming ICMP packets
