@@ -13,7 +13,7 @@ The organization recently experienced a DDoS attack, which compromised the inter
 
 - An IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics
 
-## [Project 2: Managing File permission using Linux: Project Overview](https://github.com/ashire6456/CyberSecurity-Portofolio/blob/main/File%20permissions%20in%20Linux.txt)
+## [Project 2: Managing File permission using Linux: Project Overview]([https://github.com/ashire6456/CyberSecurity-Portofolio/blob/main/File%20permissions%20in%20Linux.txt](https://github.com/ashire6456/CyberSecurity-Portofolio/blob/main/File%20permissions%20in%20Linux.pdf))
 Project description
 The research team at my organization needs to update the file permissions for certain files and directories within the projects directory. The permissions do not currently reflect the level of authorization that should be given. Checking and updating these permissions will help keep their system secure. 
 click project link for more details.
