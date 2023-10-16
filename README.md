@@ -1,5 +1,15 @@
 # Abdifatah Mohamed Portofolio
-## [Project 1: NIST Cybersecurity Framework to respond to a security incident: Project Overview](https://github.com/ashire6456/CyberSecurity-Portofolio/blob/main/Incident%20report%20analysis%20.pdf)
+## [Project 2: NIST Cybersecurity Framework to respond to a security incident: Project Overview](https://github.com/ashire6456/CyberSecurity-Portofolio/blob/main/Incident%20report%20analysis%20.pdf)
+My organization is working to make their system more secure. It is my job to ensure the system is safe, investigate all potential security issues, and update employee computers as needed. The following steps provide examples of how I used SQL with filters to perform security-related tasks.
+
+- Retrieve after hours failed login attempts.
+- Retrieve login attempts on specific dates.
+- Retrieve login attempts outside of Mexico.
+- Retrieve employees in Marketing.
+- Retrieve employees in Finance or Sales.
+- Retrieve all employees not in IT.
+
+## [Project 2: NIST Cybersecurity Framework to respond to a security incident: Project Overview](https://github.com/ashire6456/CyberSecurity-Portofolio/blob/main/Incident%20report%20analysis%20.pdf)
 
 One of our client that works a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses. 
 The organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.
@@ -13,7 +23,7 @@ The organization recently experienced a DDoS attack, which compromised the inter
 
 - An IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics
 
-## [Project 2: Managing File permission using Linux: Project Overview](https://github.com/ashire6456/CyberSecurity-Portofolio/blob/main/File%20permissions%20in%20Linux.pdf)
+## [Project 3: Managing File permission using Linux: Project Overview](https://github.com/ashire6456/CyberSecurity-Portofolio/blob/main/File%20permissions%20in%20Linux.pdf)
 Project description
 The research team at my organization needs to update the file permissions for certain files and directories within the projects directory. The permissions do not currently reflect the level of authorization that should be given. Checking and updating these permissions will help keep their system secure. 
 click project link for more details.
