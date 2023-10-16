@@ -1,5 +1,5 @@
 # Abdifatah Mohamed Portofolio
-## [Project 2: NIST Cybersecurity Framework to respond to a security incident: Project Overview](https://github.com/ashire6456/CyberSecurity-Portofolio/blob/main/Incident%20report%20analysis%20.pdf)
+## [Project 2: Apply filters to SQL queries: Project Overview](https://github.com/ashire6456/CyberSecurity-Portofolio/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
 My organization is working to make their system more secure. It is my job to ensure the system is safe, investigate all potential security issues, and update employee computers as needed. The following steps provide examples of how I used SQL with filters to perform security-related tasks.
 
 - Retrieve after hours failed login attempts.
