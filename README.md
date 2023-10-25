@@ -2,7 +2,6 @@
 ## [Project 1: Analyze a vulnerable system: Project Overview](https://github.com/ashire6456/CyberSecurity-Portofolio/blob/main/Vulnerability%20assessment%20report%20.pdf)
 The company stores information on a remote database server, since many of the employees work remotely from locations all around the world. Employees of the company regularly query, or request, data from the server to find potential customers. The database has been open to the public since the company's launch three years ago. As a cybersecurity professional, you recognize that keeping the database server open to the public is a serious vulnerability.
 
-A vulnerability assessment of the situation can help you communicate the potential risks with decision makers at the company. You must create a written report that clearly explains how the vulnerable server is a risk to business operations and how it can be secured.
 ## [Project 2: Apply filters to SQL queries: Project Overview](https://github.com/ashire6456/CyberSecurity-Portofolio/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
 My organization is working to make their system more secure. It is my job to ensure the system is safe, investigate all potential security issues, and update employee computers as needed. The following steps provide examples of how I used SQL with filters to perform security-related tasks.
 
