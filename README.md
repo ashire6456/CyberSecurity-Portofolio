@@ -1,5 +1,5 @@
 # Abdifatah Mohamed Portofolio
-## [Project 1: Incident handler's journal entry : Project Overview](https://github.com/ashire6456/CyberSecurity-Portofolio/blob/main/Vulnerability%20assessment%20report%20.pdf)
+## [Project 1: Incident handler's journal entry : Project Overview](https://github.com/ashire6456/CyberSecurity-Portofolio/blob/main/Incident%20handler's%20journal%20entry%20.pdf)
 A small U.S. health care clinic specializing in delivering primary-care services experienced a security incident on a Tuesday morning, at approximately 9:00 a.m. Several employees reported that they were unable to use their computers to access files like medical records. Business operations shut down because employees were unable to access the files and software needed to do their job.
 
 - Implementing of authentication, authorization and auditing mechanism.
